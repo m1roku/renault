@@ -1,0 +1,97 @@
+/*Neaeaa? ia?aei*/
+.simple_slider {
+	position:relative;
+	overflow:visible;
+	width: 100%;
+	height:auto;
+	margin: 0px auto;
+	margin-top: 81px;
+}
+.simple_slider .btn_left {
+	width: 12px;
+	height: 17px;
+	cursor:pointer;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select:none;
+	user-select:none;
+	position: relative;
+	top: 8px;
+	z-index:1;
+	margin-top: 0px !important;
+	display: inline-block;
+	margin-right: 60px;
+}
+.simple_slider .btn_left:before {content:'';background:url(../img/icons.html) -21px 0px no-repeat;width: 12px;height: 17px;display: inline-block;}
+.simple_slider .btn_right {
+	width: 12px;
+	height: 17px;
+	cursor:pointer;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select:none;
+	user-select:none;
+	position: relative;
+	top: 8px;
+	z-index:1;
+	margin-top: 0px !important;
+	display: inline-block;
+	margin-left: 60px;
+}
+.simple_slider .btn_right:before {content:'';background:url(../img/icons.html) -33px 0px no-repeat;width: 12px;height: 17px;display: inline-block;}
+
+.simple_slider .s_container {
+	padding:0px;
+	margin:0px;
+	height:100%;
+	width:100%;
+	position:relative;
+	overflow:hidden;
+}
+.simple_slider .simple_slider_container {
+	width: 10000px;
+	position: absolute;
+	height: 100%;
+	top:0px;
+	left:0px;
+}
+.simple_slider .s_container .sep {
+	height:100%;
+	float:left;
+}
+.simple_slider .s_container .s_item {
+	text-align:center;
+	float:left;
+	position:relative;
+}
+.simple_slider .s_container .s_item > a {
+	display:block;
+	height:100%;
+	background-position:50% 50%;
+}
+.simple_slider .s_container .s_item img {max-width: 100%;}
+.simple_slider .bullet {display: inline-block;}
+.simple_slider .bullet span {
+	border-radius: 100px;
+	padding:4px;
+	margin: 0px 19px;
+	background: white;
+	font-size:0px;
+	cursor:pointer;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select:none;
+	user-select:none;
+	border: 2px solid #0081c9;
+}
+.simple_slider .bullet span.current {
+	background: #0081c9;
+}
+
+
+.simple_slider .control_container {
+    position: absolute;
+    bottom: -33px;
+    width: 100%;
+    text-align: center;
+}

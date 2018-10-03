@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-bold-webfont.eot');
+    src: url('../fonts/renaultlife-bold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-bold-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-bold-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-bold-webfont.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Renault-bold';
+    src: url('../fonts/renaultlife-bold-webfont.eot');
+    src: url('../fonts/renaultlife-bold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-bold-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-bold-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-bold-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-bolditalic-webfont.eot');
+    src: url('../fonts/renaultlife-bolditalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-bolditalic-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-bolditalic-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-italic-webfont.eot');
+    src: url('../fonts/renaultlife-italic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-italic-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-italic-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-italic-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-light-webfont.eot');
+    src: url('../fonts/renaultlife-light-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-light-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-light-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-light-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-lightitalic-webfont.eot');
+    src: url('../fonts/renaultlife-lightitalic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-lightitalic-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-lightitalic-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'Renault';
+    src: url('../fonts/renaultlife-regular-webfont.eot');
+    src: url('../fonts/renaultlife-regular-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/renaultlife-regular-webfont.woff2') format('woff2'),
+         url('../fonts/renaultlife-regular-webfont.woff') format('woff'),
+         url('../fonts/renaultlife-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
